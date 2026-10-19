@@ -17,10 +17,10 @@ const CONFIG = {
   },
 
   projects: {       
-    cafe:        { github: "", demo: "" },
-    portfolio:   { github: "", demo: "" },
-    calculator:  { github: "", demo: "" },
-    experiments: { github: "", demo: "" }
+    cafe:        { github: "https://github.com/nafissani12-alt/Cafe-Management-system", demo: "" },
+    portfolio:   { github: "https://github.com/nafissani12-alt/my-portfolio", demo: "" },
+    calculator:  { github: "https://github.com/nafissani12-alt/assignment-nafis", demo: "" },
+    
   }
 };
 
